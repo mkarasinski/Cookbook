@@ -37,11 +37,12 @@ Shopping-list page:
 
 ## Todo
 
-App can be improved by:
-* Adding units to ingredients
-* Authorizing users recipes
-* Improving UI
-* Adding macros and calories to the dishes
+Things to do to improve app:
+* Add units to ingredients
+* Authorize users recipes
+* Improve UI
+* Add macros and calories to the dishes
+* Tag ingredients and group them together on shopping list - Vegetables, bread, etc.
 
 ## Sources
 This app is based on Angular - The Compleate Guide by Maximilian Schwarzmüller on Udemy.  
