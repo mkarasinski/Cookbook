@@ -24,24 +24,13 @@ Angular app - recipe book. Allows the users to store recipes and create shopping
 ## Demo
 
 <p align="center">
-  <img src="./demo/part_1.gif" />
+  <img src="./demo/recipe.png" />
 </p>
   
 <p align="center">
-  <img src="./demo/part_2.gif" />
+  <img src="./demo/shopping-list.png" />
 </p>
   
-<p align="center">
-  <img src="./demo/part_3.gif" />
-</p>
-  
-<p align="center">
-  <img src="./demo/part_4.gif" />
-</p>
-  
-<p align="center">
-  <img src="./demo/part_5.gif" />
-</p>
 
 ## Sources
 This app is based on Angular - The Compleate Guide by Maximilian Schwarzmüller on Udemy.  
