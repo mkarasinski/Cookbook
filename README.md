@@ -22,14 +22,22 @@ Angular app - recipe book. Allows the users to store recipes and create shopping
 
 
 ## Demo
+Recipes page:
 
 <p align="center">
   <img src="./demo/recipe.png" />
 </p>
   
+Shopping-list page:
+
 <p align="center">
   <img src="./demo/shopping-list.png" />
 </p>
+
+#Todo
+App can be improved by:
+*Adding units to ingredients
+*Authorizing users recipes
   
 
 ## Sources
