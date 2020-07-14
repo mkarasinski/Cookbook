@@ -15,6 +15,7 @@ Angular app - recipe book. Allows the users to store recipes and create shopping
 
 ## Technologies
 * Angular 2+
+* Firebase
 
 ## Try out
  Website of app:
@@ -34,11 +35,13 @@ Shopping-list page:
   <img src="./demo/shopping-list.png" />
 </p>
 
-#Todo
+##Todo
+
 App can be improved by:
-*Adding units to ingredients
-*Authorizing users recipes
-  
+* Adding units to ingredients
+* Authorizing users recipes
+* Improving UI
+* Adding macros and calories to the dishes
 
 ## Sources
 This app is based on Angular - The Compleate Guide by Maximilian Schwarzmüller on Udemy.  
