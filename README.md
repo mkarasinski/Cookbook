@@ -35,7 +35,7 @@ Shopping-list page:
   <img src="./demo/shopping-list.png" />
 </p>
 
-##Todo
+## Todo
 
 App can be improved by:
 * Adding units to ingredients
