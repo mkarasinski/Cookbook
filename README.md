@@ -44,7 +44,7 @@ Things to do to improve app:
 * Add macros and calories to the dishes
 * Tag ingredients and group them together on shopping list - Vegetables, bread, etc.
 * Allow uploading images
-* Export shopping list to for example .pdf
+* Export shopping list for example to .pdf
 
 ## Sources
 This app is based on Angular - The Compleate Guide by Maximilian Schwarzmüller on Udemy.  
